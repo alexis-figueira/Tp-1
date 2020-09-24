@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1600908857 source:c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\trabajo 1\ed fisica\educacionfisica\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Funciones.h"
+	"estructuras.h"
+	"menu.h"
+	"interfaz.h"
+	"reportes.h"
+
+1600744884 c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\trabajo 1\ed fisica\educacionfisica\funciones.h
+	"estructuras.h"
+
+1600558315 c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\trabajo 1\ed fisica\educacionfisica\estructuras.h
+
+1600817086 source:c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\trabajo 1\ed fisica\educacionfisica\funciones.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Funciones.h"
+	"estructuras.h"
+	"menu.h"
+	"interfaz.h"
+
+1593748668 c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\trabajo 1\ed fisica\educacionfisica\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600908820 c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\trabajo 1\ed fisica\educacionfisica\menu.h
+	"estructuras.h"
+
+1600900699 c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\trabajo 1\ed fisica\educacionfisica\interfaz.h
+
+1600909423 source:c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\trabajo 1\ed fisica\educacionfisica\interfaz.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Funciones.h"
+	"estructuras.h"
+	"menu.h"
+	"interfaz.h"
+
+1600908820 source:c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\trabajo 1\ed fisica\educacionfisica\menu.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Funciones.h"
+	"estructuras.h"
+	"menu.h"
+	"interfaz.h"
+	"entrenamiento.h"
+	"reportes.h"
+
+1600817892 source:c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\trabajo 1\ed fisica\educacionfisica\entrenamiento.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"estructuras.h"
+	"interfaz.h"
+	"entrenamiento.h"
+	"Funciones.h"
+
+1600812757 c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\trabajo 1\ed fisica\educacionfisica\entrenamiento.h
+	"estructuras.h"
+
+1600908820 c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\trabajo 1\ed fisica\educacionfisica\reportes.h
+
+1600909375 source:c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\trabajo 1\ed fisica\educacionfisica\reportes.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Funciones.h"
+	"estructuras.h"
+	"menu.h"
+	"interfaz.h"
+
